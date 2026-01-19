@@ -15,8 +15,10 @@ The layout focuses on **simplicity**, **readability**, and **usability**, while 
 
 ## 🌐 Live Preview
 
-> You can host this project on [ Website Demo ](#) and place the link here.
-> This project on [ Website Demo ]("/Thumbnail.png) .
+> You can host this project on [ Website Demo ](https://resturent-landing-page-ar.netlify.app/) and place the link here.
+---
+> ![Project Cover Photo](https://github.com/asaduzzaman-rahim/Resturent-Landing-Page-/blob/main/Thumbnail.png)
+
 
 ---
 
@@ -40,19 +42,10 @@ The following technologies and tools are used in this project:
 
 - **React JS** – Component-based UI development  
 - **Tailwind CSS** – Utility-first CSS framework  
-- **Framer Motion** – Animations (hover, reveal, scroll-based effects)  
 - **JavaScript (ES6+)**  
 - **HTML5**  
 - **CSS3**
 
----
-
-## 🎞️ Animations & Effects
-
-- Hover scale animation on cards and buttons  
-- Reveal animation on scroll  
-- Page load animation  
-- Scroll progress indicator using `useScroll` from Framer Motion  
 
 ---
 
