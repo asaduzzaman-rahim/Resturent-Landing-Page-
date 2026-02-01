@@ -1,8 +1,8 @@
 import React from 'react'
-import Section from './Component/Section'
-import Container from './Component/Container'
-import Flex from './Component/Flex'
-import Button from './Component/Button'
+import Section from './Section'
+import Container from './Container'
+import Flex from './Flex'
+import Button from './Button'
 
 const LocationSection = () => {
   return (

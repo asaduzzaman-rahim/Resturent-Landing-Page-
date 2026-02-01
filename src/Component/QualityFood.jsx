@@ -10,7 +10,7 @@ const QualityFood = () => {
         <Container>
             <div>
                 <h2>We believe in making quality food</h2> 
-                <Flex className="justify-between gap-[30px] text-center mx-auto mt-[60px] mb-[30px] ">
+                <Flex className="lg:justify-between justify-center gap-[30px] text-center mx-auto mt-[60px] mb-[30px] ">
                     <div className='w-[270px] h-[108px] '>
                         <h3>2M+</h3>
                         <p>Happy Custumers</p>

@@ -9,7 +9,7 @@ import QualityFood from './Component/QualityFood'
 import Franchisee from './Component/Franchisee'
 import Clients from './Component/Clients'
 import Support from './Component/Support'
-import LocationSection from './LocationSection'
+import LocationSection from './Component/LocationSection'
 import Footer from './Component/Footer'
 
 function App() {
